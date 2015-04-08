@@ -1,0 +1,24 @@
+{
+  "name": "gulp-release-plugin",
+  "version": "0.0.1-alpha",
+  "description": "A gulp release plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cieni/gulp-release-plugin"
+  },
+  "keywords": [
+    "gulp",
+    "release",
+    "tag"
+  ],
+  "author": "José Carlos Cieni Júnior",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/cieni/gulp-release-plugin/issues"
+  },
+  "homepage": "https://github.com/cieni/gulp-release-plugin"
+}
