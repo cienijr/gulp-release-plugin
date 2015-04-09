@@ -1,6 +1,6 @@
 {
   "name": "gulp-release-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A gulp release plugin.",
   "main": "index.js",
   "scripts": {
