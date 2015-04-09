@@ -1,6 +1,6 @@
 {
   "name": "gulp-release-plugin",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2",
   "description": "A gulp release plugin.",
   "main": "index.js",
   "scripts": {
@@ -12,13 +12,23 @@
   },
   "keywords": [
     "gulp",
+    "gulpplugin",
     "release",
     "tag"
   ],
   "author": "José Carlos Cieni Júnior",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/cieni/gulp-release-plugin/issues"
   },
-  "homepage": "https://github.com/cieni/gulp-release-plugin"
+  "homepage": "https://github.com/cieni/gulp-release-plugin",
+  "dependencies": {
+    "gulp-bump": "^0.3.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-git": "^1.1.0",
+    "gulp-util": "^3.0.4",
+    "lodash": "^3.6.0",
+    "require-dir": "^0.3.0",
+    "through2": "^0.6.3"
+  }
 }
