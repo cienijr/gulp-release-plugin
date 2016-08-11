@@ -17,6 +17,7 @@
     "tag"
   ],
   "author": "José Carlos Cieni Júnior",
+  "contributors": ["Danilo Valente <danilovalente96@gmail.com> (https://danilo-valente.github.io/)"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cieni/gulp-release-plugin/issues"
